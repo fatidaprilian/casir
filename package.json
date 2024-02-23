@@ -1,0 +1,31 @@
+{
+    "name": "@fatidaprilian/casirryuen",
+    "version": "0.0.1",
+    "description": "📦 npm package tutorial",
+    "main": "index.js",
+    "scripts": {
+        "start": "python cek.py"
+    },
+    "files": [
+        "cek.py"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fatidaprilian/casir.git"
+    },
+    "keywords": [
+        "npm",
+        "publish",
+        "package",
+        "registry"
+    ],
+    "author": {
+        "name": "Ryuen",
+        "email": "faridaprilian215@gmail.com",
+        "url": "https://ryuen215.com"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/fatidaprilian/casir/issues"
+    },
+    "homepage": "https://github.com/fatidaprilian/casir#readme"
